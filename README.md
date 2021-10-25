@@ -1,12 +1,15 @@
 - 👋 Hi, I’m @pedroandre1712
+- 🌱 I’m currently learning SQL, Python, Google Data Studio.
 - 👀 I’m interested in 
   - Data Analytics 
   - Data Science 
   - Chess
   - Human Behaviour
-  
-- 🌱 I’m currently learning SQL, Python, Google Data Studio.
-- 💞️ I’m looking to collaborate on Data Science projects
+
+[![pedroandre1712's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroandre1712&theme=gotham)](https://github.com/pedroandre1712/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroandre1712&theme=gotham)](https://github.com/pedroandre1712/github-readme-stats)
+
+
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/pabarrozo/)
 
 <!---
