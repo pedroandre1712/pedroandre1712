@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pedroandre1712
-- 🌱 I’m currently learning SQL, Python, Google Data Studio.
+- 🌱 I’m currently learning SQL, Python, HTML, CSS and Google Data Studio.
 - 👀 I’m interested in 
   - Data Analytics 
   - Data Science 
