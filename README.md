@@ -1,9 +1,11 @@
 <h1>Hi, I'm Pedro!</h1> 
- 🔭 I’m currently working as an <b>Information Security Analyst</b> </br>
- 🌱 I’m currently learning</br> 
-  - Linux Foundations;__
-  - Bash Scripting;__
-  - WebApps Pentesting. 
+🔭 I’m currently working as an <b>Information Security Analyst</b> </br>
+🌱 I’m currently learning</br> 
+<ul>
+<li>Linux Foundations;</li>
+<li>Bash Scripting;</li>
+<li>WebApps Pentesting.</li>
+</ul> 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Bioinformatics</b>
