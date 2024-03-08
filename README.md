@@ -9,7 +9,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Bioinformatics</b>
-  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [loading...]
 - <b>PowerShell</b>
   - [loading...]
 - <b>BASH</b>
