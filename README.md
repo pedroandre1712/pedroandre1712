@@ -1,18 +1,15 @@
 <h1>Hi, I'm Pedro!</h1> 
-🔭 I’m currently working as an <b>Information Security Analyst</b> </br>
-🌱 I’m currently learning</br> 
+🔭 I’m a <b>Data Analyst</b> </br>
+🌱 I’m currently learning for these certifications</br> 
 <ul>
-<li>Linux Foundations;</li>
-<li>Bash Scripting;</li>
-<li>WebApps Pentesting.</li>
+<li>PL-300;</li>
+<li>CompTIA Security+;</li>
 </ul> 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Bioinformatics</b>
+- <b>Dashboards</b>
   - [loading...]
-- <b>PowerShell</b>
-  - [loading...]
-- <b>BASH</b>
+- <b>Python Analysis</b>
   - [loading...]
 - <b>Python</b>
   - [Encryption Algorithm(Datastructures and Algorithms Demo)](https://github.com/pedroandre1712/mystudies/tree/main/cyber_security)
