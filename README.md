@@ -2,8 +2,8 @@
 🔭 I’m a <b>Data Analyst</b> </br>
 🌱 I’m currently learning for these certifications</br> 
 <ul>
-<li>PL-300;</li>
 <li>CompTIA Security+;</li>
+<li>GCP Cloud Engineer;</li>
 </ul> 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
