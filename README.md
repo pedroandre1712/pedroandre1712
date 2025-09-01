@@ -1,5 +1,5 @@
 <h1>Hi, I'm Pedro!</h1> 
-🔭 I’m a <b>Data Analyst</b> </br>
+🔭 I’m a <b>Data Analyst and Information Security Consultant</b> </br>
 🌱 I’m currently learning for these certifications</br> 
 <ul>
 <li>CompTIA Security+;</li>
